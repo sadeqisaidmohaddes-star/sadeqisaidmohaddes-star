@@ -15,15 +15,15 @@ I enjoy turning complicated ideas into software that is understandable and usefu
 
 ## Featured projects
 
-| Project | What it does | Built with |
-| --- | --- | --- |
-| [**Semantica**](https://github.com/sadeqisaidmohaddes-star/semantica) | Makes well-structured semantic HTML look polished with a classless, accessible CSS core. | CSS · HTML |
-| [**Palette Studio**](https://github.com/sadeqisaidmohaddes-star/palette-studio) | Generates accessible color systems, previews them live, and exports them to popular formats. | TypeScript · Next.js |
-| [**Clean Code Checker**](https://github.com/sadeqisaidmohaddes-star/clean-code-checker) | Analyzes GitHub repositories and reports concrete maintainability issues without third-party Python packages. | Python · GitHub API |
-| [**vulnscan**](https://github.com/sadeqisaidmohaddes-star/vuln-scanner) | Performs authorized, detection-only security assessments and produces structured reports. | Python · Async I/O |
-| [**TechStack Advisor**](https://github.com/sadeqisaidmohaddes-star/techstack-advisor) | Recommends explainable technology stacks, alternatives, and starter commands for different project types. | TypeScript |
-| [**Smart Video Compressor**](https://github.com/sadeqisaidmohaddes-star/video-compressor) | Compresses videos locally using duplicate-frame detection and efficient encoding workflows. | PowerShell · FFmpeg · HTML |
-| [**Cost & Time Estimator**](https://github.com/sadeqisaidmohaddes-star/cost-time-estimator) | Compares AI-assisted and human software delivery with visible, editable assumptions. | JavaScript · React |
+| Project | What it does | Built with | Live |
+| --- | --- | --- | --- |
+| [**Semantica**](https://github.com/sadeqisaidmohaddes-star/semantica) | Makes well-structured semantic HTML look polished with a classless, accessible CSS core. | CSS · HTML | [Showcase](https://sadeqisaidmohaddes-star.github.io/semantica/) |
+| [**Palette Studio**](https://github.com/sadeqisaidmohaddes-star/palette-studio) | Generates accessible color systems, previews them live, and exports them to popular formats. | TypeScript · Next.js | [Open app](https://sadeqisaidmohaddes-star.github.io/palette-studio/) |
+| [**Clean Code Checker**](https://github.com/sadeqisaidmohaddes-star/clean-code-checker) | Analyzes GitHub repositories and reports concrete maintainability issues without third-party Python packages. | Python · GitHub API | [Project site](https://sadeqisaidmohaddes-star.github.io/clean-code-checker/) |
+| [**vulnscan**](https://github.com/sadeqisaidmohaddes-star/vuln-scanner) | Performs authorized, detection-only security assessments and produces structured reports. | Python · Async I/O | [Project site](https://sadeqisaidmohaddes-star.github.io/vuln-scanner/) |
+| [**TechStack Advisor**](https://github.com/sadeqisaidmohaddes-star/techstack-advisor) | Recommends explainable technology stacks, alternatives, and starter commands for different project types. | TypeScript | [Open app](https://sadeqisaidmohaddes-star.github.io/techstack-advisor/) |
+| [**Smart Video Compressor**](https://github.com/sadeqisaidmohaddes-star/video-compressor) | Compresses videos locally using duplicate-frame detection and efficient encoding workflows. | PowerShell · FFmpeg · HTML | [Open app](https://sadeqisaidmohaddes-star.github.io/video-compressor/) |
+| [**Cost & Time Estimator**](https://github.com/sadeqisaidmohaddes-star/cost-time-estimator) | Compares AI-assisted and human software delivery with visible, editable assumptions. | JavaScript · React | [Open app](https://sadeqisaidmohaddes-star.github.io/cost-time-estimator/) |
 
 ## Toolbox
 
