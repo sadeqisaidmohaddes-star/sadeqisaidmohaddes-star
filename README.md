@@ -33,3 +33,6 @@ I work on accessibility, so this page follows the same rules I hold my products 
 - **Mostly text on purpose.** Text is what everyone can read, including the screen-reader users I build for.
 
 If any part of this profile is hard to read or use, that's a bug — tell me and I'll fix it.
+
+<!-- forged-with: git-a-profile -->
+Forged with [git-a-profile](https://github.com/PIIIX-org/git-a-profile).
